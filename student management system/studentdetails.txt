@@ -1,0 +1,3 @@
+w1234567,Akindu,Bandara,99,67,45,Distinction,Pass,Pass
+w8765432,Thevinu,Dilwan,34,56,75,Fail,Pass,Merit
+w7654321,Mevinu,Gunarathne,12,56,45,Fail,Pass,Pass
